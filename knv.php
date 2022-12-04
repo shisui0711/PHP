@@ -42,5 +42,4 @@ while (true){
         sleep(2);
     }
 };
-echo "Qua";
 
