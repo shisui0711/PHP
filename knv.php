@@ -39,6 +39,7 @@ while (true){
     }else{
         echo $do."Vui lòng nhập đúng key";
         sleep(2);
+        @system("clear");
     }
 };
 
