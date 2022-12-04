@@ -29,7 +29,6 @@ $logo = "
 @system("clear");
 echo $logo;
 echo "\n";
-sleep(5);
 $key_pastebin = file_get_contents("https://pastebin.com/raw/xSWKZxu0");
 while (true){
     echo $luc."Nhập Key ".$trang."===>: $vang";
